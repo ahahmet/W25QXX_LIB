@@ -1,0 +1,3 @@
+# W25QXX_LIB
+This libraray not complicated, already testing.....
+Also this library inspired from https://github.com/maxiufeng258/SPI_Flash_Uart_Led_Polling_V1.0
